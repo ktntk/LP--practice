@@ -952,7 +952,7 @@ box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .5);
 	/* footer */
 	.footer {
 		width: 100%;
-		padding: 2%;
+		padding: 2% 0;
 		background: #888888;
 	}
 
